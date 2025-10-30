@@ -6,3 +6,39 @@ CHATS:
 4º DB BACKEND
 5º HTML CSS JS JQUERY 
 5º PROGRAMACION
+
+
+
+
+1º localizar todas las peluquerias de mi zona 
+2º revisar cuales tienen pagina web 
+3º identificar de las que tienen web cual es la que no tinen buen diseño
+4º ir a la calle y hablar con los de la tienda
+5º identificar que benefiio le aporta la web al negocio (no estoy vendiendo paginas web estoy vendiendo un beneficio , no simpre es dinero sino experiencia de navegacion.. para que los clientes sepan los horarios )
+6º 
+
+negocios: 30/70
+
+si se complica recurrir a otra persona 
+
+
+
+tareas: 
+
+nombre 
+direccion y direccion web
+web : si o no   (que fallos tienen)
+visitada
+zonas vistitadas
+
+identificar sus beneficios para su negocio
+
+--------------------------------------------------------------------------------------
+
+PRECIO:
+
+creacion de la web 800€ 
+
+hostinger : 53,88€ al año mas iva 
+
+300€ de anticipado

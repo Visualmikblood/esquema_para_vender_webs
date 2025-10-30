@@ -5,7 +5,7 @@ PAQUETES PELUQUERIA:
     2:SOBRE NOSOTROS / HISTORIA
     3:NUESTRO EQUIPO
     4:NUESTROS SERVICIO
-    5:CONTACTANOS => De cinco tipos | formulario / telefono,email,calle..etc / reservar cita / reservar con calendario / localizaciones
+    5:CONTACTANOS => De cinco tipos | formulario / telefono,email,calle..etc / reservar cita / "reservar con calendario" / localizaciones
     6:GALERIA => De dos tipos | galeria normal / galeria portfolio  
     
 
@@ -14,10 +14,10 @@ PAQUETES PELUQUERIA:
     2:SOBRE NOSOTROS / HISTORIA
     3:NUESTRO EQUIPO
     4:NUESTROS SERVICIO
-    5:CONTACTANOS => De cinco tipos | formulario / telefono,email,calle..etc / reservar cita / reservar con calendario / localizaciones
+    5:CONTACTANOS => De cinco tipos | formulario / telefono,email,calle..etc / reservar cita / "reservar con calendario" / localizaciones
     6:GALERIA => De dos tipos | galeria normal / galeria portfolio  
-    7:TESTIMONIOS
-    8º BLOG / NOTICIAS
+    7:TESTIMONIOS / RESEÑAS 
+    8º BLOG / NOTICIAS (EXPLICAR QUE ES PARA VER TIPOS DE PEINADOS ...)
 
 3º PAQUETE AVANZADO:
     1:HOME
